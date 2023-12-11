@@ -1,6 +1,1 @@
 node_modules/
-/packages
-/apps
-/endpoints
-/workspaces
-yarn.lock

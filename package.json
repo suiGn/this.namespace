@@ -1,7 +1,7 @@
 {
-  "name": "monadlisa",
-  "version": "1.0.1",
-  "description": "Monorepo.",
+  "name": "this.namespace",
+  "version": "0.0.2",
+  "description": "Namespaces.",
   "main": "index.js",
   "private": true,
   "workspaces": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suiGn/monadLisa.git"
+    "url": "git+https://github.com/suiGn/this.namespace.git"
   },
   "keywords": [
     "ai",
@@ -23,9 +23,9 @@
   "author": "suiGn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/suiGn/monadLisa/issues"
+    "url": "https://github.com/suiGn/this.namespace/issues"
   },
-  "homepage": "https://github.com/suiGn/monadLisa#readme",
+  "homepage": "https://github.com/suiGn/this.namespace#readme",
   "devDependencies": {
     "mocha": "^10.2.0"
   }
