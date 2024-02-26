@@ -28,5 +28,7 @@
   "homepage": "https://github.com/suiGn/this.namespace#readme",
   "devDependencies": {
     "mocha": "^10.2.0"
-  }
+  },
+    "repoType": "NPM Package",
+  "category": "dataformatter"
 }
