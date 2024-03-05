@@ -1,3 +1,1 @@
-import ThisGui from 'this.gui';
-// Or using CommonJS
-const ThisGui = require('this.gui');
+console.log('this.namespace loaded.');

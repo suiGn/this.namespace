@@ -1,15 +1,10 @@
 {
   "name": "this.namespace",
-  "version": "0.0.3",
+  "version": "0.0.31",
   "description": "Namespaces.",
   "main": "index.js",
-  "private": true,
-  "workspaces": [
-    "workspaces/endpoints/*",
-    "workspaces/apps/*",
-    "workspaces/packages/*"
-  ],
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -20,6 +15,7 @@
     "ai",
     "mlearning"
   ],
+  "type":"module",
   "author": "suiGn",
   "license": "MIT",
   "bugs": {
@@ -27,7 +23,7 @@
   },
   "homepage": "https://github.com/suiGn/this.namespace#readme",
   "devDependencies": {
-    "mocha": "^10.2.0"
+  
   },
   "repoType": "NPM Package",
   "category": "dataformatter"
